@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\CS3_Collection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|d:\\assign fsd\\cs3_collection\\collection2\\services\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|solutionrelative:collection2\\services\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|d:\\assign fsd\\cs3_collection\\collection2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|solutionrelative:collection2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|d:\\assign fsd\\cs3_collection\\collection2\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|solutionrelative:collection2\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|d:\\assign fsd\\cs3_collection\\collection2\\interface\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94569284-A6A7-4201-98BB-23A55B00695B}|Collection2\\Collection2.csproj|solutionrelative:collection2\\interface\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyPlayList.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Services\\MyPlayList.cs",
+              "RelativeDocumentMoniker": "Collection2\\Services\\MyPlayList.cs",
+              "ToolTip": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Services\\MyPlayList.cs",
+              "RelativeToolTip": "Collection2\\Services\\MyPlayList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:12:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlaylist.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Interface\\IPlaylist.cs",
+              "RelativeDocumentMoniker": "Collection2\\Interface\\IPlaylist.cs",
+              "ToolTip": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Interface\\IPlaylist.cs",
+              "RelativeToolTip": "Collection2\\Interface\\IPlaylist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:09:21.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Collection2\\Models\\Song.cs",
+              "ToolTip": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Models\\Song.cs",
+              "RelativeToolTip": "Collection2\\Models\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:06:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Program.cs",
+              "RelativeDocumentMoniker": "Collection2\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\CS3_Collection\\Collection2\\Program.cs",
+              "RelativeToolTip": "Collection2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:05:29.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\CS2_EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\service\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\service\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\interfaces\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\interfaces\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\service\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\service\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\interfaces\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\interfaces\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|d:\\assign fsd\\cs2_employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B107B48-DDB3-41F9-8F44-65A9D3A7D0A1}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IFullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Interfaces\\IFullTimeEmployee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IFullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Interfaces\\IFullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:02:25.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Interfaces\\IEmployee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Interfaces\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:01:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IPartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Interfaces\\IPartTimeEmployee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Interfaces\\IPartTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Interfaces\\IPartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:03:08.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Service\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Service\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Service\\PartTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Service\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:10:06.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:50:08.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Service\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Service\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\Service\\FullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Service\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:08:36.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\models\\Employee.cs",
+              "ToolTip": "D:\\Assign FSD\\CS2_EmployeeManagement\\EmployeeManagement\\models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:51:53.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

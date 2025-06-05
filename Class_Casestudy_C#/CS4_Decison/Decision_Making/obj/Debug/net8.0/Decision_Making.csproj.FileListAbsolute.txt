@@ -1,0 +1,14 @@
+D:\Assign FSD\CS4_Decison\Decision_Making\bin\Debug\net8.0\Decision_Making.exe
+D:\Assign FSD\CS4_Decison\Decision_Making\bin\Debug\net8.0\Decision_Making.deps.json
+D:\Assign FSD\CS4_Decison\Decision_Making\bin\Debug\net8.0\Decision_Making.runtimeconfig.json
+D:\Assign FSD\CS4_Decison\Decision_Making\bin\Debug\net8.0\Decision_Making.dll
+D:\Assign FSD\CS4_Decison\Decision_Making\bin\Debug\net8.0\Decision_Making.pdb
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.AssemblyInfoInputs.cache
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.AssemblyInfo.cs
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.csproj.CoreCompileInputs.cache
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.dll
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\refint\Decision_Making.dll
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.pdb
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\Decision_Making.genruntimeconfig.cache
+D:\Assign FSD\CS4_Decison\Decision_Making\obj\Debug\net8.0\ref\Decision_Making.dll

@@ -1,0 +1,14 @@
+D:\Assign FSD\CS3_Collection\Collection2\bin\Debug\net8.0\Collection2.exe
+D:\Assign FSD\CS3_Collection\Collection2\bin\Debug\net8.0\Collection2.deps.json
+D:\Assign FSD\CS3_Collection\Collection2\bin\Debug\net8.0\Collection2.runtimeconfig.json
+D:\Assign FSD\CS3_Collection\Collection2\bin\Debug\net8.0\Collection2.dll
+D:\Assign FSD\CS3_Collection\Collection2\bin\Debug\net8.0\Collection2.pdb
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.AssemblyInfoInputs.cache
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.AssemblyInfo.cs
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.csproj.CoreCompileInputs.cache
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.dll
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\refint\Collection2.dll
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.pdb
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\Collection2.genruntimeconfig.cache
+D:\Assign FSD\CS3_Collection\Collection2\obj\Debug\net8.0\ref\Collection2.dll

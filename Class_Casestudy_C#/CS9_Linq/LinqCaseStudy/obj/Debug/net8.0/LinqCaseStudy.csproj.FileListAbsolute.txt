@@ -1,0 +1,14 @@
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\bin\Debug\net8.0\LinqCaseStudy.exe
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\bin\Debug\net8.0\LinqCaseStudy.deps.json
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\bin\Debug\net8.0\LinqCaseStudy.runtimeconfig.json
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\bin\Debug\net8.0\LinqCaseStudy.dll
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\bin\Debug\net8.0\LinqCaseStudy.pdb
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.AssemblyInfoInputs.cache
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.AssemblyInfo.cs
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.csproj.CoreCompileInputs.cache
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.dll
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\refint\LinqCaseStudy.dll
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.pdb
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\LinqCaseStudy.genruntimeconfig.cache
+D:\Assign FSD\CS9_Linq\LinqCaseStudy\obj\Debug\net8.0\ref\LinqCaseStudy.dll
