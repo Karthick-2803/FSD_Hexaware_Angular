@@ -1,0 +1,11 @@
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\bin\Debug\net8.0\StudentMocqManag.deps.json
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\bin\Debug\net8.0\StudentMocqManag.dll
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\bin\Debug\net8.0\StudentMocqManag.pdb
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.AssemblyInfoInputs.cache
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.AssemblyInfo.cs
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.csproj.CoreCompileInputs.cache
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.dll
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\refint\StudentMocqManag.dll
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\StudentMocqManag.pdb
+D:\Assign FSD\Mocqdemo_2\StudentMocqManag\obj\Debug\net8.0\ref\StudentMocqManag.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMocqManag", "StudentMocqManag\StudentMocqManag.csproj", "{1C13A003-A46B-4CCF-A195-3D0DC2CE56B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentServiceTests", "StudentServiceTests\StudentServiceTests.csproj", "{B1D7F590-1DA6-40F2-A798-E1AEDF9D5E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C13A003-A46B-4CCF-A195-3D0DC2CE56B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C13A003-A46B-4CCF-A195-3D0DC2CE56B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C13A003-A46B-4CCF-A195-3D0DC2CE56B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C13A003-A46B-4CCF-A195-3D0DC2CE56B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D7F590-1DA6-40F2-A798-E1AEDF9D5E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D7F590-1DA6-40F2-A798-E1AEDF9D5E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D7F590-1DA6-40F2-A798-E1AEDF9D5E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D7F590-1DA6-40F2-A798-E1AEDF9D5E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5959DD6-5F11-4FB9-BA35-0DED3F399135}
+	EndGlobalSection
+EndGlobal
