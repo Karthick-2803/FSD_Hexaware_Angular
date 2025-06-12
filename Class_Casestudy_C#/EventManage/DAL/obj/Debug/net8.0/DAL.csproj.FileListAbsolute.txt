@@ -1,0 +1,15 @@
+D:\Assign FSD\EventManage\DAL\bin\Debug\net8.0\appSettings.json
+D:\Assign FSD\EventManage\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Assign FSD\EventManage\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\Assign FSD\EventManage\DAL\bin\Debug\net8.0\DAL.dll
+D:\Assign FSD\EventManage\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.dll
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\Assign FSD\EventManage\DAL\obj\Debug\net8.0\ref\DAL.dll

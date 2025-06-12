@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|d:\\fsd_hexa\\class_casestudy_c#\\cs9_linq\\linqcasestudy\\query3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|solutionrelative:linqcasestudy\\query3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|d:\\fsd_hexa\\class_casestudy_c#\\cs9_linq\\linqcasestudy\\queryxiiiii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|solutionrelative:linqcasestudy\\queryxiiiii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|solutionrelative:linqcasestudy\\query4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|d:\\fsd_hexa\\class_casestudy_c#\\cs9_linq\\linqcasestudy\\query3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|solutionrelative:linqcasestudy\\query3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|d:\\fsd_hexa\\class_casestudy_c#\\cs9_linq\\linqcasestudy\\query2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED891F16-63D0-46CE-BDBD-B454EF1C6C82}|LinqCaseStudy\\LinqCaseStudy.csproj|solutionrelative:linqcasestudy\\query2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,19 +79,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Query7.cs",
-              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query7.cs",
-              "RelativeDocumentMoniker": "LinqCaseStudy\\Query7.cs",
-              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query7.cs",
-              "RelativeToolTip": "LinqCaseStudy\\Query7.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:25:58.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Query8.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query8.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\Query8.cs",
@@ -99,12 +86,11 @@
               "RelativeToolTip": "LinqCaseStudy\\Query8.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:33:50.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T06:33:50.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Query9.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query9.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\Query9.cs",
@@ -112,12 +98,11 @@
               "RelativeToolTip": "LinqCaseStudy\\Query9.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:37:55.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T06:37:55.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Queryten.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Queryten.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\Queryten.cs",
@@ -125,12 +110,11 @@
               "RelativeToolTip": "LinqCaseStudy\\Queryten.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:44:47.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T06:44:47.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QueryX1.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\QueryX1.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\QueryX1.cs",
@@ -138,12 +122,11 @@
               "RelativeToolTip": "LinqCaseStudy\\QueryX1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T08:57:19.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T08:57:19.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QueryXII.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\QueryXII.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\QueryXII.cs",
@@ -151,12 +134,11 @@
               "RelativeToolTip": "LinqCaseStudy\\QueryXII.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:01:30.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T09:01:30.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QueryXIII.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\QueryXIII.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\QueryXIII.cs",
@@ -164,12 +146,11 @@
               "RelativeToolTip": "LinqCaseStudy\\QueryXIII.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:04:15.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T09:04:15.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "QueryXIIII.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\QueryXIIII.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\QueryXIIII.cs",
@@ -177,12 +158,11 @@
               "RelativeToolTip": "LinqCaseStudy\\QueryXIIII.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:09:44.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T09:09:44.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QueryXIIIII.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\QueryXIIIII.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\QueryXIIIII.cs",
@@ -195,46 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Query6.cs",
-              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query6.cs",
-              "RelativeDocumentMoniker": "LinqCaseStudy\\Query6.cs",
-              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query6.cs",
-              "RelativeToolTip": "LinqCaseStudy\\Query6.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:23:57.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Query5.cs",
-              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query5.cs",
-              "RelativeDocumentMoniker": "LinqCaseStudy\\Query5.cs",
-              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query5.cs",
-              "RelativeToolTip": "LinqCaseStudy\\Query5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:18:09.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Query4.cs",
-              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query4.cs",
-              "RelativeDocumentMoniker": "LinqCaseStudy\\Query4.cs",
-              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query4.cs",
-              "RelativeToolTip": "LinqCaseStudy\\Query4.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:16:13.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Query3.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query3.cs",
               "RelativeDocumentMoniker": "LinqCaseStudy\\Query3.cs",
@@ -247,6 +188,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Query7.cs",
+              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query7.cs",
+              "RelativeDocumentMoniker": "LinqCaseStudy\\Query7.cs",
+              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query7.cs",
+              "RelativeToolTip": "LinqCaseStudy\\Query7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:25:58.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Query6.cs",
+              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query6.cs",
+              "RelativeDocumentMoniker": "LinqCaseStudy\\Query6.cs",
+              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query6.cs",
+              "RelativeToolTip": "LinqCaseStudy\\Query6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:23:57.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Query5.cs",
+              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query5.cs",
+              "RelativeDocumentMoniker": "LinqCaseStudy\\Query5.cs",
+              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query5.cs",
+              "RelativeToolTip": "LinqCaseStudy\\Query5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:18:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Query4.cs",
+              "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query4.cs",
+              "RelativeDocumentMoniker": "LinqCaseStudy\\Query4.cs",
+              "ToolTip": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query4.cs",
+              "RelativeToolTip": "LinqCaseStudy\\Query4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:16:13.456Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Query2.cs",
               "DocumentMoniker": "D:\\FSD_Hexa\\Class_Casestudy_C#\\CS9_Linq\\LinqCaseStudy\\Query2.cs",
@@ -255,8 +244,7 @@
               "RelativeToolTip": "LinqCaseStudy\\Query2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:08:39.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T06:08:39.402Z"
             },
             {
               "$type": "Document",
@@ -268,8 +256,7 @@
               "RelativeToolTip": "LinqCaseStudy\\Query1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:42:15.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:42:15.118Z"
             },
             {
               "$type": "Document",
@@ -281,8 +268,7 @@
               "RelativeToolTip": "LinqCaseStudy\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T05:35:01.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T05:35:01.67Z"
             }
           ]
         }

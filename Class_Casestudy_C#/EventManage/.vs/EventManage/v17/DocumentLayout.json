@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\EventManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\eventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|d:\\assign fsd\\eventmanage\\uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|solutionrelative:uiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\sessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|d:\\assign fsd\\eventmanage\\uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|solutionrelative:uiapp\\userinfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\userinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\iuserinforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\ieventdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|d:\\assign fsd\\eventmanage\\uiapp\\sessioninfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|solutionrelative:uiapp\\sessioninfobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|d:\\assign fsd\\eventmanage\\uiapp\\eventdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B48A29-F0BF-418F-BF02-6E00F746F6B5}|UIApp\\UIApp.csproj|solutionrelative:uiapp\\eventdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess\\isessioninforepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\eventdetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\speakersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\speakersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\migrations\\20250610165630_initialdatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250610165630_initialdatabse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|d:\\assign fsd\\eventmanage\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC2FB1D-736E-48A5-95A9-CBD66D6D094A}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInfoBL.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\UIApp\\UserInfoBL.cs",
+              "RelativeDocumentMoniker": "UIApp\\UserInfoBL.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\UIApp\\UserInfoBL.cs",
+              "RelativeToolTip": "UIApp\\UserInfoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:58:16.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\UIApp\\Program.cs",
+              "RelativeDocumentMoniker": "UIApp\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\UIApp\\Program.cs",
+              "RelativeToolTip": "UIApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJ8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:23:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionInfoRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\SessionInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\SessionInfoRepo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAewBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:36:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventDetailsRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IEventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:30:44.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionInfoBL.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\UIApp\\SessionInfoBL.cs",
+              "RelativeDocumentMoniker": "UIApp\\SessionInfoBL.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\UIApp\\SessionInfoBL.cs",
+              "RelativeToolTip": "UIApp\\SessionInfoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:18:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:35:30.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDetailsRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\EventDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\EventDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:49:39.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventDetailsBL.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\UIApp\\EventDetailsBL.cs",
+              "RelativeDocumentMoniker": "UIApp\\EventDetailsBL.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\UIApp\\EventDetailsBL.cs",
+              "RelativeToolTip": "UIApp\\EventDetailsBL.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:02:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserInfoRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\IUserInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\IUserInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:05:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserInfoRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\UserInfoRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\UserInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\UserInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:33:01.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISessionInfoRepo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "RelativeToolTip": "DAL\\DataAccess\\ISessionInfoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:31:48.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Models\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:50:02.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParticipantEventDetails.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ParticipantEventDetails.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\ParticipantEventDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:40:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDetailsContext.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\EventDetailsContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDetailsContext.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\EventDetailsContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDetailsContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:50:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T16:54:16.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpeakersDetails.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\SpeakersDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SpeakersDetails.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\SpeakersDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\SpeakersDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:39:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250610165630_InitialDatabse.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Migrations\\20250610165630_InitialDatabse.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250610165630_InitialDatabse.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Migrations\\20250610165630_InitialDatabse.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250610165630_InitialDatabse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:56:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\appSettings.json",
+              "RelativeDocumentMoniker": "DAL\\appSettings.json",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\appSettings.json",
+              "RelativeToolTip": "DAL\\appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T16:42:28.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:32:15.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\EventManage\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
+              "ToolTip": "D:\\Assign FSD\\EventManage\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:27:46.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
