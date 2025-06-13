@@ -1,0 +1,44 @@
+﻿@model First_MVC.Models.ContactInfo
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<html>
+<head>
+    <title>Add Contact</title>
+</head>
+<body>
+    <h2>Add New Contact</h2>
+
+    <form asp-action="AddContact" method="post">
+        <div>
+            <label>First Name:</label><br />
+            <input type="text" asp-for="FirstName" required />
+        </div>
+        <div>
+            <label>Last Name:</label><br />
+            <input type="text" asp-for="LastName" required />
+        </div>
+        <div>
+            <label>Company Name:</label><br />
+            <input type="text" asp-for="CompanyName" required />
+        </div>
+        <div>
+            <label>Email:</label><br />
+            <input type="email" asp-for="EmailId" required />
+        </div>
+        <div>
+            <label>Mobile No:</label><br />
+            <input type="tel" asp-for="MobileNo" required />
+        </div>
+        <div>
+            <label>Designation:</label><br />
+            <input type="text" asp-for="Designation" required />
+        </div>
+
+        <br />
+        <button type="submit">💾 Save</button>
+    </form>
+
+    <br />
+    <a href="/Contact/ShowContacts">Back to Contact List</a>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿@model First_MVC.Models.ContactInfo
+
+<html>
+<head>
+    <title>Contact Details</title>
+</head>
+<body>
+    <h2>Contact Details</h2>
+
+    @if (Model != null)
+    {
+        <div><strong>Contact ID:</strong> @Model.ContactId</div>
+        <div><strong>Name:</strong> @Model.FirstName @Model.LastName</div>
+        <div><strong>Company:</strong> @Model.CompanyName</div>
+        <div><strong>Email:</strong> @Model.EmailId</div>
+        <div><strong>Mobile No:</strong> @Model.MobileNo</div>
+        <div><strong>Designation:</strong> @Model.Designation</div>
+    }
+    else
+    {
+        <div>No contact found with this ID.</div>
+    }
+
+    <br />
+    <a href="/Contact/ShowContacts">Back to Contact List</a>
+</body>
+</html>

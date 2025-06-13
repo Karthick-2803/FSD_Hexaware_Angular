@@ -1,0 +1,36 @@
+﻿@model List<First_MVC.Models.ContactInfo>
+
+<html>
+<head>
+    <title>Contact List</title>
+</head>
+<body>
+    <h2>Contact List</h2>
+    <a href="/Contact/AddContact">➕ Add New Contact</a>
+    <br />
+    <br />
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>Contact Id</th>
+            <th>Name</th>
+            <th>Company</th>
+            <th>Email</th>
+            <th>Mobile No</th>
+            <th>Designation</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var contact in Model)
+        {
+            <tr>
+                <td>@contact.ContactId</td>
+                <td>@contact.FirstName @contact.LastName</td>
+                <td>@contact.CompanyName</td>
+                <td>@contact.EmailId</td>
+                <td>@contact.MobileNo</td>
+                <td>@contact.Designation</td>
+                <td><a href="/Contact/GetContactById/@contact.ContactId">View</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
