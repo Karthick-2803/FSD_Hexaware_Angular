@@ -1,0 +1,30 @@
+﻿@model List<Book_MVC.Models.Book>
+@{
+    ViewData["Title"] = "Book List";
+}
+<h2>@ViewData["Title"]</h2>
+<a href="/Book/Create" class="btn btn-success mb-3">Add New Book</a>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ISBN</th>
+            <th>Name</th>
+            <th>Author</th>
+            <th>Published Date</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Isbn</td>
+                <td>@book.BookName</td>
+                <td>@book.AuthorName</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td><a href="@book.BookUrl" target="_blank">@book.BookUrl</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
