@@ -1,0 +1,16 @@
+﻿@model Second_MVC.Models.ClientInfo
+
+<h2>Client Details</h2>
+@if (Model != null)
+{
+    <div><strong>ID:</strong> @Model.ClientId</div>
+    <div><strong>Company:</strong> @Model.CompanyName</div>
+    <div><strong>WebUrl:</strong> <a href="@Model.WebUrl">@Model.WebUrl</a></div>
+    <div><strong>Email:</strong> @Model.Email</div>
+    <div><strong>Category:</strong> @Model.Category</div>
+    <div><strong>Standard:</strong> @Model.Standard</div>
+}
+else
+{
+    <p>No client found.</p>
+}

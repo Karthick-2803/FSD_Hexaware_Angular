@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\Second_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|d:\\assign fsd\\second_mvc\\second_mvc\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA75BC-6ED0-4117-A4BC-C19DC9CCAE4C}|Second_MVC\\Second_MVC.csproj|solutionrelative:second_mvc\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Second_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Second_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T07:37:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "Second_MVC\\Views\\Client\\AddClient.cshtml",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "Second_MVC\\Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T07:31:20.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientDetails.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeDocumentMoniker": "Second_MVC\\Views\\Client\\ClientDetails.cshtml",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeToolTip": "Second_MVC\\Views\\Client\\ClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T07:30:36.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Second_MVC\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Program.cs",
+              "RelativeToolTip": "Second_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:17:26.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "Second_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "Second_MVC\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T06:53:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Second_MVC\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Second_MVC\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:22:21.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Models\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "Second_MVC\\Models\\ClientInfo.cs",
+              "ToolTip": "D:\\Assign FSD\\Second_MVC\\Second_MVC\\Models\\ClientInfo.cs",
+              "RelativeToolTip": "Second_MVC\\Models\\ClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:20:58.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

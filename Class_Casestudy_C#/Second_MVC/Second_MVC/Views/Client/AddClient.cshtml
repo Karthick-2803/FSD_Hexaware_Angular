@@ -1,0 +1,27 @@
+﻿@model Second_MVC.Models.ClientInfo
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Add New Client</h2>
+<form asp-action="AddClient" method="post">
+    <div>
+        <label>Company Name</label>
+        <input asp-for="CompanyName" />
+    </div>
+    <div>
+        <label>Web URL</label>
+        <input asp-for="WebUrl" />
+    </div>
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" />
+    </div>
+    <div>
+        <label>Category</label>
+        <input asp-for="Category" />
+    </div>
+    <div>
+        <label>Standard</label>
+        <input asp-for="Standard" />
+    </div>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,25 @@
+﻿@model List<Second_MVC.Models.ClientInfo>
+
+<h2>All Clients</h2>
+<a asp-controller="Client" asp-action="AddClient">Add New Client</a>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Company</th>
+        <th>WebUrl</th>
+        <th>Email</th>
+        <th>Category</th>
+        <th>Standard</th>
+    </tr>
+    @foreach (var client in Model)
+    {
+        <tr>
+            <td>@client.ClientId</td>
+            <td>@client.CompanyName</td>
+            <td><a href="@client.WebUrl">@client.WebUrl</a></td>
+            <td>@client.Email</td>
+            <td>@client.Category</td>
+            <td>@client.Standard</td>
+        </tr>
+    }
+</table>
