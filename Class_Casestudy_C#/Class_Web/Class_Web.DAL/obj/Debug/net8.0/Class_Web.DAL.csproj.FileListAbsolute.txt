@@ -1,0 +1,14 @@
+D:\Assign FSD\Class_Web\Class_Web.DAL\bin\Debug\net8.0\Class_Web.DAL.deps.json
+D:\Assign FSD\Class_Web\Class_Web.DAL\bin\Debug\net8.0\Class_Web.DAL.runtimeconfig.json
+D:\Assign FSD\Class_Web\Class_Web.DAL\bin\Debug\net8.0\Class_Web.DAL.dll
+D:\Assign FSD\Class_Web\Class_Web.DAL\bin\Debug\net8.0\Class_Web.DAL.pdb
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.csproj.AssemblyReference.cache
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.AssemblyInfoInputs.cache
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.AssemblyInfo.cs
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.csproj.CoreCompileInputs.cache
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.dll
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\refint\Class_Web.DAL.dll
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.pdb
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\Class_Web.DAL.genruntimeconfig.cache
+D:\Assign FSD\Class_Web\Class_Web.DAL\obj\Debug\net8.0\ref\Class_Web.DAL.dll

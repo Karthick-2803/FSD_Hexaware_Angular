@@ -1,0 +1,15 @@
+D:\Assign FSD\Class_Web\Class_Web.BLL\bin\Debug\net8.0\Class_Web.BLL.deps.json
+D:\Assign FSD\Class_Web\Class_Web.BLL\bin\Debug\net8.0\Class_Web.BLL.dll
+D:\Assign FSD\Class_Web\Class_Web.BLL\bin\Debug\net8.0\Class_Web.BLL.pdb
+D:\Assign FSD\Class_Web\Class_Web.BLL\bin\Debug\net8.0\Class_Web.DAL.dll
+D:\Assign FSD\Class_Web\Class_Web.BLL\bin\Debug\net8.0\Class_Web.DAL.pdb
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.csproj.AssemblyReference.cache
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.AssemblyInfoInputs.cache
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.AssemblyInfo.cs
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.csproj.CoreCompileInputs.cache
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_We.8F126EAC.Up2Date
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.dll
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\refint\Class_Web.BLL.dll
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\Class_Web.BLL.pdb
+D:\Assign FSD\Class_Web\Class_Web.BLL\obj\Debug\net8.0\ref\Class_Web.BLL.dll

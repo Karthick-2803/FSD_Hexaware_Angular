@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\Class_Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|d:\\assign fsd\\class_web\\class_web.dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|solutionrelative:class_web.dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|d:\\assign fsd\\class_web\\class_web.dal\\data\\class_webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|solutionrelative:class_web.dal\\data\\class_webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|d:\\assign fsd\\class_web\\class_web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DAEAFF-3A21-455D-AEE2-58C519A1FA3C}|Class_Web.API\\Class_Web.API.csproj|solutionrelative:class_web.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE3665-0028-48F6-BC13-58F8DF0972C0}|Class_Web.BLL\\Class_Web.BLL.csproj|d:\\assign fsd\\class_web\\class_web.bll\\services\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE3665-0028-48F6-BC13-58F8DF0972C0}|Class_Web.BLL\\Class_Web.BLL.csproj|solutionrelative:class_web.bll\\services\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBFE3665-0028-48F6-BC13-58F8DF0972C0}|Class_Web.BLL\\Class_Web.BLL.csproj|d:\\assign fsd\\class_web\\class_web.bll\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFE3665-0028-48F6-BC13-58F8DF0972C0}|Class_Web.BLL\\Class_Web.BLL.csproj|solutionrelative:class_web.bll\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|d:\\assign fsd\\class_web\\class_web.dal\\migrations\\20250623044141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|solutionrelative:class_web.dal\\migrations\\20250623044141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|d:\\assign fsd\\class_web\\class_web.dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E042038-5A64-4371-AF9E-95DE70329CE3}|Class_Web.DAL\\Class_Web.DAL.csproj|solutionrelative:class_web.dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Class_Web.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Class_Web.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T06:01:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Class_Web.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Class_Web.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:56:10.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Class_Web.API\\Models\\Auth\\RegisterRequest.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Class_Web.API\\Models\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:52:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Class_Web.DAL\\Models\\UserInfo.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Class_Web.DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:19:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Program.cs",
+              "RelativeDocumentMoniker": "Class_Web.API\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Program.cs",
+              "RelativeToolTip": "Class_Web.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:38:28.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Class_Web.API\\appsettings.json",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\appsettings.json",
+              "RelativeToolTip": "Class_Web.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T04:37:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Class_Web.API\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Class_Web.API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:15:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Models\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Class_Web.API\\Models\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.API\\Models\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Class_Web.API\\Models\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:52:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250623052328_AddUserInfoTable.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs",
+              "RelativeDocumentMoniker": "Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs",
+              "RelativeToolTip": "Class_Web.DAL\\Migrations\\20250623052328_AddUserInfoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:23:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.BLL\\Services\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Class_Web.BLL\\Services\\EventRepository.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.BLL\\Services\\EventRepository.cs",
+              "RelativeToolTip": "Class_Web.BLL\\Services\\EventRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:05:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.BLL\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Class_Web.BLL\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.BLL\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Class_Web.BLL\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:04:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class_WebDbContext.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Data\\Class_WebDbContext.cs",
+              "RelativeDocumentMoniker": "Class_Web.DAL\\Data\\Class_WebDbContext.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Data\\Class_WebDbContext.cs",
+              "RelativeToolTip": "Class_Web.DAL\\Data\\Class_WebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:32:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250623044141_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Migrations\\20250623044141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Class_Web.DAL\\Migrations\\20250623044141_InitialCreate.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Migrations\\20250623044141_InitialCreate.cs",
+              "RelativeToolTip": "Class_Web.DAL\\Migrations\\20250623044141_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:41:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "Class_Web.DAL\\Models\\EventDetails.cs",
+              "ToolTip": "D:\\Assign FSD\\Class_Web\\Class_Web.DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "Class_Web.DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T04:30:34.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
