@@ -1,0 +1,15 @@
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\bin\Debug\net8.0\VehicleInsuranceSystem.BLL.deps.json
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\bin\Debug\net8.0\VehicleInsuranceSystem.BLL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\bin\Debug\net8.0\VehicleInsuranceSystem.BLL.pdb
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.pdb
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.csproj.AssemblyReference.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.AssemblyInfoInputs.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.AssemblyInfo.cs
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.csproj.CoreCompileInputs.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleI.2A95CEE6.Up2Date
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\refint\VehicleInsuranceSystem.BLL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\VehicleInsuranceSystem.BLL.pdb
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.BLL\obj\Debug\net8.0\ref\VehicleInsuranceSystem.BLL.dll

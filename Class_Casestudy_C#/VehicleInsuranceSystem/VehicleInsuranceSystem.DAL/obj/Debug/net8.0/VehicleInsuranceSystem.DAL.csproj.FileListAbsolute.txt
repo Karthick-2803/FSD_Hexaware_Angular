@@ -1,0 +1,14 @@
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.deps.json
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.runtimeconfig.json
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\bin\Debug\net8.0\VehicleInsuranceSystem.DAL.pdb
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.csproj.AssemblyReference.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.AssemblyInfoInputs.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.AssemblyInfo.cs
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.csproj.CoreCompileInputs.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\refint\VehicleInsuranceSystem.DAL.dll
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.pdb
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\VehicleInsuranceSystem.DAL.genruntimeconfig.cache
+D:\Assign FSD\VehicleInsuranceSystem\VehicleInsuranceSystem.DAL\obj\Debug\net8.0\ref\VehicleInsuranceSystem.DAL.dll

@@ -1,0 +1,26 @@
+﻿@model List<ProposalViewModel>
+
+<h2>Proposal Dashboard</h2>
+<table class="table">
+    <tr>
+        <th>Customer</th>
+        <th>Vehicle</th>
+        <th>Status</th>
+        <th>Premium</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.FullName</td>
+            <td>@p.VehicleType - @p.RegistrationNumber</td>
+            <td>@p.Status</td>
+            <td>@p.PremiumAmount</td>
+            <td>
+                <a asp-action="Approve" asp-route-id="@p.PolicyProposalId" class="btn btn-success">Approve</a>
+                <a asp-action="Reject" asp-route-id="@p.PolicyProposalId" class="btn btn-danger">Reject</a>
+            </td>
+        </tr>
+    }
+</table>
+<a asp-action="Logout" class="btn btn-secondary">Logout</a>

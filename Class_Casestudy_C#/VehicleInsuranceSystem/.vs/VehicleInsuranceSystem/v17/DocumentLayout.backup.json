@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assign FSD\\VehicleInsuranceSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\controllers\\officercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\controllers\\officercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\views\\officer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\views\\officer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\views\\officer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\views\\officer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\models\\proposalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\models\\proposalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.officerui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48BD33A9-27E1-4563-A1A9-3BF19D8061F5}|VehicleInsuranceSystem.OfficerUI\\VehicleInsuranceSystem.OfficerUI.csproj|solutionrelative:vehicleinsurancesystem.officerui\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C53ADCD-690B-49D0-9F99-0A0DF70B54A4}|VehicleInsuranceSystem.DAL\\VehicleInsuranceSystem.DAL.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.dal\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C53ADCD-690B-49D0-9F99-0A0DF70B54A4}|VehicleInsuranceSystem.DAL\\VehicleInsuranceSystem.DAL.csproj|solutionrelative:vehicleinsurancesystem.dal\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086179C7-7143-40CA-9B69-9B9C81042078}|VehicleInsuranceSystem.BLL\\VehicleInsuranceSystem.BLL.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.bll\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086179C7-7143-40CA-9B69-9B9C81042078}|VehicleInsuranceSystem.BLL\\VehicleInsuranceSystem.BLL.csproj|solutionrelative:vehicleinsurancesystem.bll\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{499EAA19-1BD0-4A44-9893-D5064481CF81}|VehicleInsuranceSystem.API\\VehicleInsuranceSystem.API.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.api\\models\\dtos\\userprofileupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{499EAA19-1BD0-4A44-9893-D5064481CF81}|VehicleInsuranceSystem.API\\VehicleInsuranceSystem.API.csproj|solutionrelative:vehicleinsurancesystem.api\\models\\dtos\\userprofileupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C53ADCD-690B-49D0-9F99-0A0DF70B54A4}|VehicleInsuranceSystem.DAL\\VehicleInsuranceSystem.DAL.csproj|d:\\assign fsd\\vehicleinsurancesystem\\vehicleinsurancesystem.dal\\migrations\\20250628060243_makedocumenturlnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C53ADCD-690B-49D0-9F99-0A0DF70B54A4}|VehicleInsuranceSystem.DAL\\VehicleInsuranceSystem.DAL.csproj|solutionrelative:vehicleinsurancesystem.dal\\migrations\\20250628060243_makedocumenturlnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfileUpdateDto.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.API\\Models\\DTOs\\UserProfileUpdateDto.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.API\\Models\\DTOs\\UserProfileUpdateDto.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.API\\Models\\DTOs\\UserProfileUpdateDto.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.API\\Models\\DTOs\\UserProfileUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:33:51.501Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T14:38:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T14:00:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Dashboard.cshtml",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Dashboard.cshtml",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:42:02.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Login.cshtml",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Login.cshtml",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Login.cshtml",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Views\\Officer\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T12:41:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Program.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Program.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:35:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfficerController.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Controllers\\OfficerController.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Controllers\\OfficerController.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Controllers\\OfficerController.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Controllers\\OfficerController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:33:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProposalViewModel.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Models\\ProposalViewModel.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Models\\ProposalViewModel.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Models\\ProposalViewModel.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Models\\ProposalViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:18:56.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.OfficerUI\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.OfficerUI\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.OfficerUI\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:17:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.BLL\\Services\\PolicyService.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.BLL\\Services\\PolicyService.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.BLL\\Services\\PolicyService.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.BLL\\Services\\PolicyService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:19:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250628060243_MakeDocumentUrlNullable.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.DAL\\Migrations\\20250628060243_MakeDocumentUrlNullable.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.DAL\\Migrations\\20250628060243_MakeDocumentUrlNullable.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.DAL\\Migrations\\20250628060243_MakeDocumentUrlNullable.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.DAL\\Migrations\\20250628060243_MakeDocumentUrlNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:02:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.DAL\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "VehicleInsuranceSystem.DAL\\Models\\Policy.cs",
+              "ToolTip": "D:\\Assign FSD\\VehicleInsuranceSystem\\VehicleInsuranceSystem.DAL\\Models\\Policy.cs",
+              "RelativeToolTip": "VehicleInsuranceSystem.DAL\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T06:01:02.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
